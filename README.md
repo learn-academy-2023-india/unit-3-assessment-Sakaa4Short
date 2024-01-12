@@ -28,30 +28,41 @@ PRs should be posted _before_ class begins on Tuesday, January 2, 2024.
 ### React Challenge
 
 1. React Debugging: The Card Draw React application has three (3) errors that need to be fixed. Use the console and error messages to guide you to the solution.
+// Completed
 
 2. React Feature: Add functionality to the `Return Cards and Shuffle Deck` button using the `shuffle` function to reset the Card Draw application to its original state.
+// Completed
 
 3. React Concepts: Add comments to the sever (7) notations in the `drawCard` function describing in detail the functionality of the following line of code.
+// Completed
 
 4. STRETCH (optional): Add stylings of your choice to the application. Ensure the styling does not interfere with the card draw functionality.
+// Completed
 
 ### Interview Practice Questions
 
 1. What are three (3) syntax difference between HTML and JSX?
+    (1.) JSX uses the syntax of className rather than HTML class. 
+    (2.) JSX & HTML use of self closing tags look similar but are different in key places such as on App.js
+    (3.) JSX & HTMl have different styles for comment/tag lines. 
 
 2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
+Yarn is a package manager for your code. When you run yarn in your terminal files like nodes_modules and package.json and yarn.lock appear and are modified and test.js files are usually modified with the terminal command $yarn/$yarn start. 
 
 3. What is the difference between state values and props in React?
+Props are a pipeline to use for passing data or properties from one coponent to another while state is used mainly within a component and can be changed using the setState function. 
 
 4. STRETCH (optional): What is the difference between a div tag and a span tag?
+Div tag is an organizational tag specifically for block level organization and styling of the page. Span element is more so used for inline organization and styling. 
 
 ### Looking Ahead: Terms for Next Unit
 
 1. Object-oriented programming:
+Object-oriented programming, often referred to as OOP, is a programming paradigm that was created to deal with the complexity of large software systems.
 
-2. Ruby:
+2. Ruby: Ruby is an object-oriented language. Ruby is an open source, object-oriented programming language created by Yukihiro "Matz" Matsumoto in the early 1990s. Ruby has a reputation for simplicity and a style that is both easy to read and write. Ruby is a general-purpose, interpreted, dynamically-typed, server-side scripting language while using the motto "Everything is an object."
 
-3. Ruby Hashes:
+3. Ruby Hashes: A Ruby Hash is a dictionary-like container for unique keys and their corresponding values.
 
 ---
 
